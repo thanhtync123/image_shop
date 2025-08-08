@@ -5,4 +5,4 @@ Hướng dẫn sử dụng:
 3. Để chỉnh sửa thông tin shop, mở file index.html và thay đổi các dòng liên quan đến tên, địa chỉ, số điện thoại.
 4. Để thay đổi hình ảnh, thay link ảnh trong các thẻ <img> trong file index.html.
 
-Mọi thắc mắc liên hệ: Thành Tỷ 0913161844.
+
