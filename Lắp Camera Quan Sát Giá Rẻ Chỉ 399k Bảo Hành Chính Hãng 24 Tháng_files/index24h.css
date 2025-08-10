@@ -1,0 +1,15 @@
+.title-view-product { text-align: center; margin-top: 25px; position: relative; font-size: 36px; text-transform: uppercase; }
+.title-view-product:before {content: "";position: absolute;bottom: -15px;left: 45%;width: 10%;height: 5px;background: linear-gradient(45deg, #ffd100, #ff7000);border-radius: 5px;}
+.box-product-list {border: 1px solid #efefef;border-radius: 15px;padding: 6px;}
+@media (min-width: 992px) and (max-width: 1199px){
+    .title-view-product{font-size: 28px;}
+}
+@media (min-width: 768px) and (max-width: 991px){
+    .title-view-product{font-size: 26px;}
+}
+@media (max-width: 767px){
+    .title-view-product{font-size: 24px;}
+}
+@media (max-width: 480px){
+    .title-view-product{font-size: 20px;}
+}
