@@ -1,0 +1,93 @@
+.pageaspx p { margin-bottom: 10px; }
+.pageaspx img:not(.chatzalo img) {border-radius: 15px; margin: 15px 0px;}
+.pageaspx h3 {font-size: 18px;}
+.pageaspx h4 {font-size: 16px;}
+.pageaspx h3, .pageaspx h4 {margin: 15px 0px;font-weight: 600; color: #000;}
+.box-product-aspx h3 { font-size: 20px; font-weight: 600; padding-left: 10px; margin: 10px 0px 15px 10px; clear: both; width: fit-content; background: linear-gradient(180deg, #fe0048, #4c0000); color: #f0ffff00; -webkit-background-clip: text; position: relative; }
+.box-product-aspx > h3:before { content: ""; background: linear-gradient(45deg, #ff00f2, #ff5500); display: block; width: 8px; height: 8px; border-radius: 2px; position: absolute; top: 7px; left: -5px; }
+
+.box-demo {text-align: center;}
+.box-demo p { color: #001d91; }
+#box-vertical-menu {display: none;}
+
+.box-30-70, .box-70-30 {display: flex;flex-wrap: wrap; width: 100%;justify-content: space-around;}
+
+.box-30-70 .column, .box-70-30 .column1 {width: 30%;padding: 5px;}
+.box-30-70 .column1, .box-70-30 .column {width: 70%;padding: 5px;}
+
+
+.title-pageaspx { font-size: 24px;}
+.title-pageaspxh2 { font-size: 22px; font-weight: 600; }
+.title-pageaspx, .title-pageaspxh2 { text-align: center; margin: 30px 0px; }
+.title-pageaspx a, .title-pageaspxh2 span {color: #000836;position: relative;text-transform: uppercase;}
+
+.title-pageaspx a::after, .title-pageaspxh2 span::after { content: "";  border-radius: 5px; position: absolute; display: block; margin-top: 7px; width: 50%; left: 25%; z-index: 9999; }
+.title-pageaspx a::after {border-bottom: 4px solid #ff0024;}
+.title-pageaspxh2 span::after {border-bottom: 4px solid #0084ff;}
+
+
+.title-pageaspx-1:before {content: "";border-left: 6px solid #00a3ff;border-radius: 5px;}
+.title-pageaspx-1 { border-left: 5px solid #6edaff; margin: 20px 0px; width: fit-content; text-transform: capitalize; }
+.title-pageaspx-1 span { padding-left: 5px; font-weight: 600; color: #000d2d; font-size: 22px; }
+.title-pageaspx-h1 a { color: #002a80; }
+
+.title-pageaspx-h1:after { content: ""; position: absolute; height: 5px; border-radius: 5px; width: 6%; background: linear-gradient(45deg, #ff16b7, #39d6ff); z-index: -1; bottom: -20px; left: 47%; } 
+.title-pageaspx-h1 { font-size: 30px; text-transform: uppercase; text-align: center; margin: 20px 0px 30px 0px; position: relative; }
+
+.spaspx {width: 24%;margin-right: 1%;    margin-bottom: 10px;}
+.spaspx-info a { color: #000; font-weight: 600; font-size: 14px; line-height: 18px; margin: 10px 0px; display: block; height: 40px; border-bottom: 1px dotted #ff3c00; }
+.spaspx-info p { display: -webkit-box; text-overflow: ellipsis; overflow: hidden; -webkit-box-orient: vertical; -webkit-line-clamp: 3; }
+
+.boxgia-spaspx { display: flex; flex-wrap: wrap; flex-direction: column; background: #0f99ff;padding: 5px; }
+
+.giakm-spaspx { background: #fff; padding: 3px; font-size: 15px; }
+.giakm-spaspx b{color: #eb001f;}
+
+.giatt-spaspx { margin: 3px; text-decoration: line-through; font-size: 14px; }
+
+.spaspx-info p { display: -webkit-box; text-overflow: ellipsis; overflow: hidden; -webkit-box-orient: vertical; -webkit-line-clamp: 3; margin: 5px 0px; font-size: 13px; }
+
+.title-listspaspx {background: #ffd200;width: fit-content;padding: 5px;border-radius: 5px;margin: 20px 0px;}
+
+.title-listspaspx a {font-size: 20px; font-weight: 600;color:#1d1d1d;}
+
+
+
+.box-listtinaspx, .tinaspx, .list-service-aspx {display: flex;flex-wrap: wrap;}
+
+.tinaspx { background: #e6fcff; margin: 10px 0px; box-shadow: 0px 3px 3px #c9e3f3; }
+.tinaspx-img {width: 25%;}
+.tinaspx-img img { border-radius: 15px; padding: 5px; }
+.tinaspx-info { width: 74%; padding: 5px; }
+.tinaspx-info a { font-size: 16px; color: #000; font-weight: 600; margin: 10px 0px; width: fit-content; display: block; }
+.tinaspx-info p { font-size: 14px; }
+
+
+.service-aspx { width: 23%; margin-right: 2%; border: 1px solid #eee; border-radius: 10px; padding: 8px; }
+.service-aspx h3 a { font-size: 14px; text-transform: uppercase; color: #001732; font-weight: 600; }
+.service-aspx h3 {background: #ffd200;border-radius: 5px;margin: 5px 0px;height: 39px;padding: 5px;}
+.service-aspx p { display: -webkit-box; text-overflow: ellipsis; overflow: hidden; -webkit-box-orient: vertical; -webkit-line-clamp: 4; font-size: 14px; padding: 5px; padding-bottom: 0px; }
+.service-aspx img { border-radius: 10px; }
+
+
+.box-tieuchi { background: #f4f4f4; padding: 20px; }
+.box-tieuchi li h3 { text-transform: uppercase; font-size: 15px; margin: 5px 0px; font-weight: 600; list-style-type: circle; color: #212121; }
+.box-tieuchi li p { color: #313131; }
+.box-tieuchi li {list-style-type: disclosure-closed;color: #0084ff;margin-bottom: 20px;}
+
+
+.box-sectionaspx .name {color: #001083;font-size: 18px;text-transform: uppercase;font-weight: 600;margin: 8px 0px;}
+.box-sectionaspx .position {color: #222222;font-size: 14px;font-weight: 700;}
+
+
+
+@media (min-width:768px) and (max-width:992px) {
+    .title-pageaspx {font-size: 20px;}
+
+
+}
+@media (max-width:767px) {
+.spaspx {width: 49%;margin-right: 1%;margin-bottom: 10px;}
+.service-aspx { width: 48%;}
+.box-30-70 .column, .box-70-30 .column1, .box-30-70 .column1, .box-70-30 .column {width: 100%;}
+}

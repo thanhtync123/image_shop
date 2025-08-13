@@ -1,0 +1,26 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	kr3k0wmcu1kgeiezssgkxvcf
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+cameraquan8.com	TRUE	/	FALSE	1999999999	.ASPXANONYMOUS	SMIE9JRA3AEkAAAAOGM1NzM1ZDUtYmU3MC00ZDcxLTk3ZjQtOTc4OGU0MGM3NWU4MvhTOndookAnCBg9zUK9B54uzNQ1
+lapcameratanphu.com	TRUE	/	FALSE	1999999999	.ASPXANONYMOUS	9ZzS9pRA3AEkAAAAMzkyOTUzM2ItMzNhZi00ZDU3LWE5NjQtZjc1NGRmYmI5Y2EzODIfvubxSK8nTstfhx7CpHdSTXM1
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	.ASPXANONYMOUS	_1IXAJVA3AEkAAAAMGI4MzFiNTktNmNhYS00NzQ4LWFjMmItNWM4MzQ3YWRlNGJietyJF8MJOgtFArmhpr0UKVHDlrQ1
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	tenmien	camerasaigon24h.com
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	sw	swtd9992 
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	idw	td9992
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	numcty	42
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	userName	Camera
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	quyen	no
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	Guestdn	no
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	Guestactive	no
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	masp	no
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	temp1	-100
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	hidbtadmin	none
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	truycap	no
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	online	no
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	ngonnguanh	style=display:none
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	lisidview	no
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	anadmin	style=display:none
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	hinhnen	hinh/nen4.png
+camerasaigon24h.com	TRUE	/	FALSE	1999999999	danhmuc	0
+
